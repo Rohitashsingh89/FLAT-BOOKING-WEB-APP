@@ -1,4 +1,5 @@
 # FLAT Booking Web Application
+![image](https://github.com/Rohitashsingh89/FLAT-BOOKING-WEB-APP/assets/93479842/ade37d71-cb5b-4966-9c43-044505858c75)
 
 ## Description
 This FLAT Booking Web Application is designed to help users search for flats in Noida and Ghaziabad. Developed using Next.js as a full-stack framework and MongoDB as the database, the application allows users to view available flats, check their availability, and contact flat owners. Additionally, an admin dashboard is provided for managing user data and flat listings. An upcoming feature includes a payment method to facilitate transactions between users and flat owners.
